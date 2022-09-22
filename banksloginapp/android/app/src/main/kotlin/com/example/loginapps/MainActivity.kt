@@ -1,4 +1,4 @@
-package com.insideapp.inside_apps
+package com.example.loginapps
 
 import io.flutter.embedding.android.FlutterActivity
 

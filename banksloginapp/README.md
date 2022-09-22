@@ -1,6 +1,6 @@
-# inside_apps
+# loginapps
 
-inside app
+A new Flutter project.
 
 ## Getting Started
 
